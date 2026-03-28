@@ -1,3 +1,5 @@
+#parallel_chain --- Notes | Quiz | Merge - Summarize report
+
 from langchain_openai import ChatOpenAI
 from langchain_anthropic import ChatAnthropic
 from dotenv import load_dotenv
